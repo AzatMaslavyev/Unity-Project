@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Btn_Plus_Neutron
+  - Btn_Minus_Neutron
+  - Btn_Plus_Proton
+  - Btn_Minus_Proton
+  - Btn_Plus_Electron
+  - Btn_Minus_Electron
+  - Neutron
+  - Proton
+  - Electron
+  - Center
+  - FollowS
+  - FollowD
+  - FollowP
+  - Box
+  - H1
+  - Reset
+  - H1atom
+  - atom
+  - AddElectron
+  - DeleteElectron
+  - AtmElectron
+  - TextH
+  - TextHe
+  - Table
+  - Sphere
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
